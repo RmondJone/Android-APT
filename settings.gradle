@@ -1,0 +1,2 @@
+include ':app',':apt-processor', ':apt-annotation', ':apt-library'
+rootProject.name='AndroidApt'
